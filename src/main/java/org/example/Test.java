@@ -8,4 +8,9 @@ public class Test {
    public int add(){
         return 0;
    }
+
+   public int sub(){
+        int a=10*3;
+        return a;
+   }
 }
